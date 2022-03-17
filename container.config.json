@@ -10,6 +10,6 @@
   "customLogs": "stdout",
   "dataBaseName":"music-l",
   "executeSQLs":[
-    "CREATE DATABASE IF NOT EXISTS music-l;",
+    "CREATE DATABASE IF NOT EXISTS music-l;"
   ]
 }
